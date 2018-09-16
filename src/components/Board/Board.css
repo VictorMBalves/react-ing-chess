@@ -1,0 +1,9 @@
+.Board{
+    width: 550px;
+    height: 550px;
+    border: 10px solid rgb(24, 141, 145);
+    border-radius: 5px;
+    align-content: center;
+    margin: auto;
+    margin-top: 50px;
+}
